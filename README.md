@@ -27,3 +27,6 @@ print(base_treinamento)  # O conteúdo permanece guardado.
 
 **Conclusão:** a frase “guardamos para melhorar a IA” não encerra a análise. O protocolo específico precisa dizer *quem autorizou cada finalidade, quais dados entram, por quanto tempo permanecem e como se comprova o cumprimento*. É nessa passagem do contrato para o comportamento do produto que a assessoria jurídica preventiva agrega valor.
 
+## Teste reproduzível
+
+Execute `python exemplo.py`. A saída mostra que um registro permaneceu na lista depois de o serviço ter sido entregue. A simulação não treina IA nem demonstra a licitude de um tratamento concreto.
